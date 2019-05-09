@@ -26,10 +26,9 @@ npm run client
 
 # Server runs on http://localhost:5000 and client on http://localhost:3000
 
-``` bash
+```
 
-
-# React Express Starter Pack
+## React Express Starter Pack
 
 Full stack apps with React and Express.
 https://github.com/bradtraversy/react_express_starter 
@@ -41,7 +40,7 @@ https://github.com/bradtraversy/react_express_starter
 
 Brad Traversy
 [Traversy Media](http://www.traversymedia.com)
-```
+
 
 
 
